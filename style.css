@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+}
+
+.menu {
+    display: flex;
+    justify-content: flex-start;
+}
+
+div.column1
+{
+    display:flex;
+}
+
+div.all
+{
+    display:flex;
+}
